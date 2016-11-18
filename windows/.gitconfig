@@ -1,0 +1,8 @@
+[user]
+	email = 
+	name = Léonard Besson
+[core]
+	editor = 'c:/program files (x86)/sublime text 3/subl.exe' -w
+[alias]
+	pdev = "push origin HEAD:refs/for/develop"
+	st = status
